@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.listOfItems {
+  color: black;
+  border-color: rgb(26, 27, 24);
+  border: 5px;
+}
